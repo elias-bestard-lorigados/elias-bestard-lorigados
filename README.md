@@ -27,7 +27,7 @@ Master’s Thesis: proposes a methodology to scrap data from an online community
 - Tableau
 
   
-## Here is my CV: [Resume.pdf](https://github.com/elias-bestard-lorigados/elias-bestard-lorigados/files/9090335/Resume.pdf)
+## Here is my [CV](https://github.com/elias-bestard-lorigados/elias-bestard-lorigados/files/9090335/Resume.pdf)
 
 ## 📫 Contact info: 
 - eliasbestlo24@gmail.com
