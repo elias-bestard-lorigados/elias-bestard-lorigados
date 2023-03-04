@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Elias Bestard Lorigados 
 
 - MSc in Computer Science at [York University](https://www.yorku.ca/).
-- I'm a Data Analytic Tutor at [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
+- Data Analytic Tutor at [CareerFoundry](https://careerfoundry.com/en/courses/become-a-data-analyst/)
 - Research Assistant at [PiETLab YorkU](https://piet.apps01.yorku.ca/member/elias-bestard-lorigados/) 
 
 - I push myself to continue growth and learning🌱
