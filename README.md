@@ -6,7 +6,7 @@
 
 - I push myself to continue growth and learning🌱
 
-## 👀 I’m deeply interested in:
+## 👀 Deeply interested in:
 - Data Science
 - Data Analytics
 - Network Analysis
